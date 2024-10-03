@@ -89,7 +89,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'black',
+    backgroundColor: 'white',
     paddingTop: 50,
     paddingHorizontal: 20,
   },
@@ -113,8 +113,7 @@ const styles = StyleSheet.create({
   addButton: {
     backgroundColor: '#5a67d8',
     padding: 10,
-    borderRadius: 5,
-    marginLeft: 10,
+    borderRadius: 10,
   },
   addButtonText: {
     color: '#fff',
